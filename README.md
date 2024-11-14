@@ -10,9 +10,9 @@ This is the Book Library app, where you can :
 ![Library](Capture.JPG)
 
 
-### `Demo` ###
 
-Demo of this app is Present at https://mybooks-ankit.herokuapp.com/
+
+
 
 ### `Backend` ###
 
