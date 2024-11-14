@@ -33,6 +33,4 @@ The CSS is coded separately in `src/index.css`
  * run server
  * go to https://localhost:5000 to view app
 
- ## `App Info` ##
- #### Created By : Ankit Pahwa
- #### Version : 1.0.0
+
